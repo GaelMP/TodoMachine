@@ -1,0 +1,5 @@
+{
+    "editor.cursorBlinking": "blink",
+    "files.autoGuessEncoding": false,
+    "files.autoSave": "onWindowChange"
+}
